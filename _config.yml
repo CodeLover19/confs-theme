@@ -1,11 +1,10 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+title: Projects Blog
+email: leepaulwebdev24@gmail.com
+description: A collection of my projects as a Developer.
+baseurl: "/project-blog"
+twitter_username: LeePaul24
+avatar: "https://pbs.twimg.com/profile_images/900141991421329409/R36veEL-_400x400.jpg" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,8 +18,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Lee Paul" # Set default author name
+      categories: "projects"
       layout: "post"
       comments: true
   -
