@@ -19,7 +19,7 @@ defaults:
       type: "posts"
     values:
       author: "Lee Paul" # Set default author name
-      categories: "progress"
+      categories: "learning"
       layout: "post"
       comments: true
   -
