@@ -1,7 +1,7 @@
 # Site settings
 title: Projects Blog
 email: leepaulwebdev24@gmail.com
-description: A collection of my projects as a Developer.
+description: A blog about my programming journey. 
 baseurl: "/project-blog"
 twitter_username: LeePaul24
 avatar: "https://pbs.twimg.com/profile_images/900141991421329409/R36veEL-_400x400.jpg" # Set footer avatar
@@ -19,7 +19,7 @@ defaults:
       type: "posts"
     values:
       author: "Lee Paul" # Set default author name
-      categories: "projects"
+      categories: "learning"
       layout: "post"
       comments: true
   -
